@@ -1,6 +1,6 @@
 {
-  "name": "Offline English Dictionary",
-  "short_name": "Dictionary",
+  "name": "Kamuz – Offline English Dictionary",
+  "short_name": "Kamuz",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
